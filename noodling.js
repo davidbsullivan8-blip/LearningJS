@@ -1,8 +1,3 @@
 "use strict";
 
-let admin;
-let name = "John";
-
-admin = name;
-
-alert(admin);
+alert("Good morning baby lady, i love you the most");
